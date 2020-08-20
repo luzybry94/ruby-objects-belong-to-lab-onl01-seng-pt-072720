@@ -1,7 +1,6 @@
 class Artist
   
-  attr_writer :name
-  attr_reader :name
+  attr_accessor :name
   
  
   
